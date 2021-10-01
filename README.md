@@ -23,7 +23,7 @@ To run this project first you need to setup your enviroment for nodejs. After th
 * Update `.env` file accordingly.
 * For Deployment, follow the guidelines provided by heroku or any other server you are using.
 
-### To Create New List
+### To Create New Todo List
 To create a new todo list you just have to use `current_url/<new todo list name>`, like `https://mighty-savannah-23976.herokuapp.com/testing`.
 
 ### Built With
